@@ -1,19 +1,30 @@
-Olá! Me chamo Lewander Ramiro, estudante Back-End 
+# Olá, eu sou o Lewander 👋
 
-Atualmente estou estudando e praticando minhas habilidades com a linguagem python
+Estudante de **Análise e Desenvolvimento de Sistemas** (UVA), com foco em me tornar **desenvolvedor Back-End / Web**, com ênfase em **automações**.
 
-Quando fiz o curso de python do grande Gustavo Guanabara, despertei uma enorme paixão pela Programação e pela linguagem.
+🚀 Minha jornada
 
-Eventualmente busquei mais formas de aprender e melhorar minhas pratica com o Python.
+Minha paixão por programação começou com o curso de Python do Gustavo Guanabara — e desde então venho me aprofundando cada vez mais na linguagem. Hoje divido meus estudos entre:
 
-Cursando atualmente os cursos da Alura para desenvolver minhas habilidades e sair do basico com meus projetos pessoais.
+- **Python**, aprofundando com cursos da Alura e criando projetos próprios de automação (e-mails automáticos, bots com Selenium, automação de tarefas com PyAutoGUI);
+- **C**, na faculdade, praticando lógica, controle de fluxo e modularização (já são 4 programas desenvolvidos como trabalho da disciplina).
 
-Estou em busca do meu primeiro emprego na area como progrmador atuando como desenvolverdor web focando em Automações.
+Estou construindo minha base para conquistar minha **primeira oportunidade como desenvolvedor**, e sigo estudando todos os dias para sair do básico e evoluir com projetos reais.
 
-Sigo estudado e buscando sempre novos projetos e cursos para sempre estar melhorando minhas praticas. 
+## 🛠️ Tecnologias e Ferramentas
 
-Estou fazendo pequenos projetos com Smtplib, Selenium, Pyautogui como foco em Automatizar minhas tarefas do dia dia.
+**Linguagens:** Python · C
 
-🦄 Linguagens: Python
+**Automação:** Smtplib · Selenium · PyAutoGUI
 
-💼 Ferramentas: Smtplib, Selenium, Pyautogui, PyCharm, Google Colab, JupyterNotebook.
+**Ambientes:** PyCharm · VS Code · Google Colab · Jupyter Notebook
+
+## 📌 Projetos em destaque
+
+*(em breve — projetos sendo organizados)*
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lewander-jefferson-ramiro-silvério-52516542b)
+- ✉️ lewanderpython@gmail.com
+- 📱 (21) 97089-0775
